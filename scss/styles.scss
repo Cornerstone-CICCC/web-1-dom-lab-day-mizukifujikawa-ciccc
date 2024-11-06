@@ -56,4 +56,20 @@ body {
       }
     }
   }
+
+  #employees {
+    thead th {
+      padding: 10px;
+      background-color: #ddd;
+    }
+
+    tbody img {
+      width: 50px;
+    }
+
+    tbody tr td {
+      padding: 5px;
+      background-color: #eee;
+    }
+  }
 }

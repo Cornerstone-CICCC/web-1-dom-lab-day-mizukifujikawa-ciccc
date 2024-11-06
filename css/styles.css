@@ -51,5 +51,14 @@ body {
   flex: 1;
   padding: 0.25rem;
 }
-
-/*# sourceMappingURL=styles.css.map */
+.container #employees thead th {
+  padding: 10px;
+  background-color: #ddd;
+}
+.container #employees tbody img {
+  width: 50px;
+}
+.container #employees tbody tr td {
+  padding: 5px;
+  background-color: #eee;
+}/*# sourceMappingURL=styles.css.map */
